@@ -8,7 +8,7 @@
   - What to consider when making a plot 
   - Making a Basic plot (eg: Excel, R, DataWrapper)  
   
-**4. Things to consider: How to take your plots to the next level?**
+**3. Things to consider: How to take your plots to the next level?**
   - Core Concepts of data vis (simplicity/ease of reading, integration of text and annotation to aid the reader
   - Color theory (why certain colors over others, shades and depth, color blindness) 
   - Symbology and annotations 
