@@ -1,5 +1,4 @@
-# Data Visualisation 1.01
-### How to harness the power of colour and design to communicate your message
+![](https://github.com/Ale-cianfa/Legacy-Project/blob/main/img/main_header.png)
 
 ## Index: 
 **1. Introduction: Why data vis?**
