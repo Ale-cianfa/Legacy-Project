@@ -3,9 +3,11 @@
 ## Index: 
 **1. Introduction: Why data vis?**
   - The power of data vis, introduction ot different types of plots and their uses 
-**3. Plotting for dummies:**
+ 
+**2. Plotting for dummies:**
   - What to consider when making a plot 
-  - Making a Basic plot (eg: Excel, R, DataWrapper)   
+  - Making a Basic plot (eg: Excel, R, DataWrapper)  
+  
 **4. Things to consider: How to take your plots to the next level?**
   - Core Concepts of data vis (simplicity/ease of reading, integration of text and annotation to aid the reader
   - Color theory (why certain colors over others, shades and depth, color blindness) 
